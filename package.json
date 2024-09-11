@@ -10,8 +10,11 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@remotion/cli": "4.0.181",
+    "dotenv": "^16.4.5",
     "react": "^18.3.1",
-    "react-dom": "^18.3.1"
+    "react-dom": "^18.3.1",
+    "remotion": "4.0.181"
   },
   "devDependencies": {
     "@eslint/js": "^9.9.0",
